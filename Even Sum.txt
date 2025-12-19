@@ -10,10 +10,11 @@ int main() {
       
         scanf("%d %d", &x, &y);
         if(x+y > 6){
-            printf("YES\n");
+            printf("YES\n");// Good turn
         }else{
-            printf("NO\n");
+            printf("NO\n");// Not a good turn
         }
 
             }
+
 }
